@@ -3,7 +3,7 @@
 🎓 Étudiant en Master Cybersécurité à Oteria Cyber School (Paris) 🏫<br>💼 Alternant – Acquisition d'expérience pratique en entreprise ⚙️<br>🕵️‍♂️ Passionné par le Pentest Web – Analyse, tests d'intrusion et sécurisation des applications 🌐💻<br>🛡️ Fasciné par l’univers du SOC – Surveillance, détection et réponse aux menaces 🔍🚨<br>💡 Toujours en quête de nouvelles techniques et vulnérabilités à exploiter/patcher 🔄🔓<br><br>🔥 Déterminé, Curieux et Rigoureux – Toujours prêt à apprendre et à relever des défis en cybersécurité! 🚀🔑
 
 
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F0NWQ3Z25mMnRubGF4MXlscWp2cXFtazZocGdmenpnaDNwa3dpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" alt="GIF" />
 </p>
 
