@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🎓 Étudiant en Master Cybersécurité à Oteria Cyber School (Paris) 🏫<br>💼 
+🎓 Étudiant en Master Cybersécurité à Oteria Cyber School (Paris) 🏫<br>
 💼 Alternant – Vivescia services en tant qu'ingénieur cybersécurité opérationnelle ⚙️<br>🕵️‍♂️ Passionné par le Pentest Web – Analyse, tests d'intrusion et sécurisation des applications 🌐💻<br>🛡️ Fasciné par l’univers du SOC – Surveillance, détection et réponse aux menaces 🔍🚨<br>💡 Toujours en quête de nouvelles techniques et vulnérabilités à exploiter 🔄🔓<br>🔥 Déterminé, Curieux et Rigoureux – Toujours prêt à apprendre et à relever des défis en cybersécurité! 🚀🔑
 
 
