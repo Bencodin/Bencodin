@@ -20,8 +20,8 @@ Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une var
 👉[GitHub](https://github.com/Bencodin/Python_Project)
 1. [🔍 Scapy Port Scanner] - Outil de scan de ports réseau basé sur Scapy.
 2. [🖥️ Screener] - Outil de screen de domaine.
-3. [🐝 Honeypot] - Projet de déploiement d'honeypot.<br>
-4.[🛼Helios] - Helios est conçue pour simplifier le processus de collecte d'informations et de reconnaissance. 👉[GitHub](https://github.com/Bencodin/Helios)</br>
+3. [🐝 Honeypot] - Projet de déploiement d'honeypot.
+4.[🛼Helios] - Helios est conçue pour simplifier le processus de collecte d'informations et de reconnaissance. 👉[GitHub](https://github.com/Bencodin/Helios)
 ---
 ## 🎯 Objectifs de mon github
 - **Showcase de Compétences** : Présenter mes compétences techniques et mon approche de résolution de problèmes.
