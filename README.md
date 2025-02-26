@@ -16,13 +16,11 @@
 Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une variété de projets sur lesquels je travaille. Utilisez les liens ci-dessous pour naviguer vers les projets spécifiques.
 # ⚡ Répertoire Principal de Mes Projets ⚡
 ## 💻 Sommaire des Projets
-Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une variété de projets sur lesquels je travaille. Utilisez les liens ci-dessous pour naviguer vers les projets spécifiques.
-[GitHub]([https://github.com/Bencodin/Python_Project])
-1. [🔍 Scapy Port Scanner](/Scapy/) - Outil de scan de ports réseau basé sur Scapy.
-2. [🖥️ Screener](/Screener) - Outil de screen de domaine.
-3. [🐝 Honeypot](/honeypot/) - Projet de déploiement d'honeypot.
-4. [📧 Contact et Collaboration](#me-contacter) - Détails sur comment me contacter ou collaborer sur ces projets.
-
+Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une variété de projets sur lesquels je travaille. Utilisez le liens ci-dessous pour naviguer vers les projets spécifiques.
+👉[GitHub](https://github.com/Bencodin/Python_Project)
+1. [🔍 Scapy Port Scanner] - Outil de scan de ports réseau basé sur Scapy.
+2. [🖥️ Screener] - Outil de screen de domaine.
+3. [🐝 Honeypot] - Projet de déploiement d'honeypot.
 ---
 
 ## 🛠️ Introduction
