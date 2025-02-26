@@ -13,8 +13,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F0NWQ3Z25mMnRubGF4MXlscWp2cXFtazZocGdmenpnaDNwa3dpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" alt="GIF" />
 </p>
 
-# ⚡ Répertoire Principal de Mes Projets ⚡
-## 💻 Sommaire des Projets
 Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une variété de projets sur lesquels je travaille. Utilisez les liens ci-dessous pour naviguer vers les projets spécifiques.
 # ⚡ Répertoire Principal de Mes Projets ⚡
 ## 💻 Sommaire des Projets
