@@ -32,13 +32,13 @@
 ## 🤓 <ins>Stats for nerds</ins>📊
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@fbi.gov:~%23" alt="Introduction">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@BenCodin:~%23" alt="Introduction">
 </p>
 
 <p align="center">
   <strong>Views</strong>
   <br>
-  <img src="https://profile-counter.glitch.me/Chocapikk/count.svg" alt="Visitors">
+  <img src="https://profile-counter.glitch.me/Bencodin/count.svg" alt="Visitors">
 </p>
 
   ## 💰 You can help me by Donating
