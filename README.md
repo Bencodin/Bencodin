@@ -26,20 +26,9 @@ Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une var
 ## 🎯 Objectifs du Répertoire
 - **Showcase de Compétences** : Présenter mes compétences techniques et mon approche de résolution de problèmes.
 - **Partage de Connaissances** : Partager mes apprentissages et expériences avec d'autres étudiants, professionnels et passionnés de technologie.
-
-1. [🔍 Scapy Port Scanner](/Scapy/) - Outil de scan de ports réseau basé sur Scapy.
-2. [🖥️ Screener](/Screener) - Outil de screen de domaine.
-3. [🐝 Honeypot](/honeypot/) - Projet de déploiement d'honeypot.
-4. [📧 Contact et Collaboration](#me-contacter) - Détails sur comment me contacter ou collaborer sur ces projets.
-
 ---
 
-## 🛠️ Introduction
-Bienvenue dans mon répertoire de projets personnels. Je suis actuellement étudiant en Master 1 à Oteria Cyber School. En parallèle de mes études, je suis en alternance, ce qui me permet de mettre en pratique mes connaissances théoriques dans un contexte professionnel.
-
-Ce répertoire est une vitrine de mes travaux et projets personnels. Chaque projet reflète mes compétences techniques, ma passion pour l'informatique et mon engagement à approfondir mes connaissances dans des domaines variés allant de la sécurité réseau à la programmation avancée.
-
-## 🎯 Objectifs du Répertoire
+## 🎯 Objectifs de mon github
 - **Showcase de Compétences** : Présenter mes compétences techniques et mon approche de résolution de problèmes.
 - **Partage de Connaissances** : Partager mes apprentissages et expériences avec d'autres étudiants, professionnels et passionnés de technologie.
 
