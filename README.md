@@ -23,11 +23,6 @@ Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une var
 3. [🐝 Honeypot] - Projet de déploiement d'honeypot.
 ---
 
-## 🛠️ Introduction
-Bienvenue dans mon répertoire de projets personnels. Je suis actuellement étudiant en Master 1 à Oteria Cyber School. En parallèle de mes études, je suis en alternance, ce qui me permet de mettre en pratique mes connaissances théoriques dans un contexte professionnel.
-
-Ce répertoire est une vitrine de mes travaux et projets personnels. Chaque projet reflète mes compétences techniques, ma passion pour l'informatique et mon engagement à approfondir mes connaissances dans des domaines variés allant de la sécurité réseau à la programmation avancée.
-
 ## 🎯 Objectifs du Répertoire
 - **Showcase de Compétences** : Présenter mes compétences techniques et mon approche de résolution de problèmes.
 - **Partage de Connaissances** : Partager mes apprentissages et expériences avec d'autres étudiants, professionnels et passionnés de technologie.
