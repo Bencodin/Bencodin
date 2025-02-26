@@ -23,11 +23,6 @@ Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une var
 3. [🐝 Honeypot] - Projet de déploiement d'honeypot.
 ---
 
-## 🎯 Objectifs du Répertoire
-- **Showcase de Compétences** : Présenter mes compétences techniques et mon approche de résolution de problèmes.
-- **Partage de Connaissances** : Partager mes apprentissages et expériences avec d'autres étudiants, professionnels et passionnés de technologie.
----
-
 ## 🎯 Objectifs de mon github
 - **Showcase de Compétences** : Présenter mes compétences techniques et mon approche de résolution de problèmes.
 - **Partage de Connaissances** : Partager mes apprentissages et expériences avec d'autres étudiants, professionnels et passionnés de technologie.
