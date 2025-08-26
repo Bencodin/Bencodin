@@ -5,12 +5,17 @@
 </p>
 
 #  About Me:
-Ancien Étudiant en Master Cybersécurité – Oteria Cyber School (Paris)<br>
-Analyste Cybersécurité – Vivescia Services <br>
-Pentest Web | Analyse | Tests d'intrusion | Sécurisation des applications <br>
-SOC | Surveillance | Détection | Réponse aux menaces <br>
-Toujours en quête de nouvelles techniques et vulnérabilités à exploiter <br>
-Déterminé | Curieux | Rigoureux
+Ancien Étudiant en Master Cybersécurité à Oteria Cyber School (Paris)<br>
+
+Analyste Cybersécurité chez Vivescia Services<br>
+
+Passionné par le Pentest Web : analyse, tests d'intrusion et sécurisation des applications<br>
+
+Fasciné par l'univers du SOC : surveillance, détection et réponse aux menaces<br>
+
+Toujours en quête de nouvelles techniques et vulnérabilités à exploiter<br>
+
+Déterminé, curieux et rigoureux : toujours prêt à apprendre et à relever des défis en cybersécurité !
 
 
 
