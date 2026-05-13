@@ -31,7 +31,6 @@ Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une var
 4. [🛼Helios] - Helios est conçue pour simplifier le processus de collecte d'informations et de reconnaissance. 👉[GitHub](https://github.com/Bencodin/Helios)
 
 ##  Objectifs de mon github
-- **Showcase de Compétences** : Présenter mes compétences techniques et mon approche de résolution de problèmes.
 - **Partage de Connaissances** : Partager mes apprentissages et expériences avec d'autres étudiants, professionnels et passionnés de technologie.
 
 #  Tech Stack
@@ -48,7 +47,6 @@ Bienvenue dans mon répertoire principal de projets. Ici, vous trouverez une var
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🤓 <ins>Stats for nerds</ins>📊
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@BenCodin:~%23" alt="Introduction">
 </p>
