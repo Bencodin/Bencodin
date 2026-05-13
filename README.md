@@ -6,8 +6,6 @@
 
 #  About Me:
 
-Analyste Cybersécurité <br>
-
 Passionné par le Pentest Web : analyse, tests d'intrusion et sécurisation des applications<br>
 
 Fasciné par l'univers du SOC : surveillance, détection et réponse aux menaces<br>
